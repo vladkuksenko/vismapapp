@@ -1,29 +1,73 @@
-**Terms & Conditions**  
+# Vismap Terms of Use
 
-These terms and conditions apply to the Dayline app (hereby referred to as "Application") for mobile devices that was created by Workalisation (hereby referred to as "Service Provider") as a Freemium service.
+Effective date: October 21, 2026
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+These Terms apply to Vismap, its Share Extension, widgets, and connected services, provided by Workalisation ("we", "us", or "our"). By using Vismap, you agree to these Terms. If you do not agree, do not use the service.
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+Contact: **teamlead@workalisation.dev**.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+## 1. The service
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+Vismap helps you save places, import links, organize trips, create travel plans, view maps and sunset information, and open routes in external navigation apps. Some functions require an internet connection and access to third-party services. Offline access is limited to information already available on your device; it does not guarantee offline maps, new imports, live place information, or route calculations.
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+We may change or improve features and supported sources. We may suspend a feature for maintenance, security, legal reasons, or loss of access to a third-party service. Where a change affects an existing paid entitlement, we will respect applicable consumer rights and any notice or remedy required by law.
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+## 2. Accounts and your information
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+You may use supported features with a guest account or choose to sign in with Apple or Google. You are responsible for your device, sign-in credentials, and activity you authorize. Guest access may be difficult to recover if you lose your device or session; signing in helps associate your saved information with an account.
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+Do not impersonate another person, access someone else's account, or provide information you are not entitled to use. You must be old enough to use the service under applicable law; if parental or guardian permission is required, obtain it before use.
 
-**Changes to These Terms and Conditions**
+Our [Privacy Policy](https://github.com/vladkuksenko/vismapapp/blob/main/Privacy%20Policy.md) explains how we process information. Device permissions, account deletion, and App Store subscription cancellation can be managed as described there and in the app.
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+## 3. Your content and imported sources
 
-These terms and conditions are effective as of 2025-08-22
+You keep any rights you have in information you submit. You give us the limited permission necessary to store, copy, process, and transmit that information, including through our providers, to operate the features you request. This does not transfer ownership of your content to us.
 
-**Contact Us**
+Only submit content and links you have the right to use. Importing a link does not give you ownership of the linked material or permission to redistribute it. Third-party content, brands, maps, and services remain subject to their owners' rights and terms. Vismap is not affiliated with or endorsed by a source platform merely because it supports links from that platform.
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at teamlead@workalisation.dev.
+Do not use Vismap for unlawful content or activity, infringement, harassment, fraud, unauthorized scraping, or attempts to defeat another service's access controls. Do not interfere with the service, bypass purchase or usage limits, exploit introductory benefits through repeated accounts, or attempt to gain unauthorized access to systems or data. Restrictions on reverse engineering apply only to the extent permitted by law.
+
+## 4. AI, maps, and travel decisions
+
+Some imports, summaries, place matches, and trip plans are generated or assisted by AI. Results can be incomplete, outdated, approximate, or incorrect. A place may be misidentified, a route may be unsuitable, and opening hours, availability, road conditions, prices, access restrictions, and sunset conditions may change.
+
+Verify important information with the venue, transport provider, official source, or appropriate navigation service before relying on it. Make your own decisions about safety, accessibility, legal access, weather, and travel arrangements. Vismap is a planning aid and is not an emergency service or a guarantee that a route or destination is safe or available. Do not operate the app in a way that distracts you while driving.
+
+## 5. Free features, Premium, and usage limits
+
+Vismap offers free features and optional paid Premium access. The purchase screen describes the available product, price, duration, and any trial or introductory offer before you buy. Product availability and prices may vary by storefront and offer.
+
+Free benefits and limits are shown in the app. Premium may include fair-use or technical limits on resource-intensive processing; Premium does not promise unlimited automated requests or uninterrupted access to third-party sources. Reasonable limits may be used to protect service availability and prevent abuse. We will not intentionally misrepresent the paid features or override mandatory consumer rights through such limits.
+
+If a non-consumable lifetime option is offered, it is a one-time purchase for the relevant Premium entitlement without a recurring subscription fee. "Lifetime" refers to the availability of the Vismap service and that entitlement, not a promise to operate the service forever or provide every future separate product. Applicable consumer remedies continue to apply.
+
+## 6. App Store purchases and subscriptions
+
+Payments are processed by Apple through your Apple Account. Auto-renewable subscriptions renew unless you cancel them through Apple before the renewal date; Apple advises cancelling at least 24 hours before the current period ends. Any trial duration, trial eligibility, subsequent price, and billing period are shown before confirmation. Unless you cancel in time, a trial converts to the paid subscription described in the offer.
+
+You can manage or cancel subscriptions in your Apple Account subscription settings or through the subscription management option in Vismap. Deleting Vismap, deleting your Vismap account, or signing out does **not** cancel an App Store subscription. Cancellation generally stops future renewals while access continues through the paid period, subject to Apple's rules and applicable law.
+
+Use **Restore Purchases** in Vismap to restore eligible purchases associated with your Apple Account. Access is subject to a valid purchase and the applicable product's entitlement. Refund requests for App Store purchases are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com/) and are subject to Apple's policies and any non-waivable rights you have under law. A refund, revocation, or expiration may end the corresponding Premium access.
+
+## 7. External services
+
+Apple, Google, map and navigation providers, source websites, and other external services have their own terms and privacy policies. We do not control their content, availability, account requirements, pricing, or changes. You are responsible for any mobile data, roaming, or other third-party charges resulting from your use.
+
+The license to the iOS application is governed by Apple's [Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), unless a different applicable license is expressly provided through the App Store. These Terms describe Vismap's connected service and do not remove rights or obligations under the applicable app license.
+
+## 8. Suspension and termination
+
+You may stop using Vismap at any time and request account deletion in the app or by contacting us. We may restrict access where reasonably necessary to address a material violation of these Terms, abuse, a security threat, or a legal requirement. Where appropriate and legally required, we will provide notice and an opportunity to address the issue. Any action affecting a paid purchase remains subject to applicable consumer rights and Apple's purchase rules.
+
+## 9. Availability and responsibility
+
+We work to keep Vismap useful and reliable, but cannot guarantee uninterrupted availability, error-free AI results, successful import of every link, or the continuing availability of an external source. Keep another copy of travel information you cannot afford to lose.
+
+To the extent permitted by law, Vismap is provided on an "as available" basis, and we are not responsible for indirect losses caused by reliance on inaccurate third-party information, service interruptions, or circumstances outside our reasonable control. Nothing in these Terms excludes or limits liability that cannot lawfully be excluded or limited, including mandatory consumer guarantees, or any rights you have to a refund or other remedy under applicable law. These Terms do not require you to give up statutory rights or remedies available in your country.
+
+## 10. Changes and questions
+
+We may update these Terms when the service or applicable requirements change. We will publish the updated Terms with a new effective date and give additional notice or obtain agreement where required by law. Changes do not retroactively remove rights you have already acquired. If you disagree with an update, you may stop using the service and manage any subscription through Apple; applicable remedies remain available.
+
+Questions about Vismap or these Terms: **teamlead@workalisation.dev**.
